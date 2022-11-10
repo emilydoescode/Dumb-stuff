@@ -13,8 +13,8 @@ Step 2 - get pip
 
 Step 3 - run these codes
 
-pip install urllib3
-pip install requests
+pip install urllib3 <br>
+pip install requests <br>
 pip install random
 
 Step 4 - run the code
